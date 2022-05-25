@@ -1,0 +1,36 @@
+.header{
+    color: rgb(87, 98, 98);
+    font-size: 27px;
+    padding: 10px;   
+}
+
+/***** Cararacteristicas del formulario de Login      */
+.img_form{
+  padding-top: 20px;
+}
+.btn-color{
+
+    background-color: #28303e;
+    color: #fff; 
+  }
+  .cardbody-color{
+    background-color: #ebf2fa;
+  } 
+  a{
+    text-decoration: none;
+  } 
+  /**** fin de diseño de formulario Login   */
+  /*****Diseño de las tablas ****/
+  table{
+    border: double 5px grey;
+     border-spacing: 0.5rem;
+     border-radius:1rem;
+    margin: 10% auto;
+    box-shadow:1rem 1rem 1rem grey;
+    width: 70%;
+    padding: 40%;
+    } /*** Fin de D.tablas **/
+ div.container2{
+   padding-left: 1%;
+   padding-right: 1%;
+ }
